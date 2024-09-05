@@ -21,7 +21,7 @@ jobs:
         uses: docker/login-action@v2.2.0
         with:
           registry: registry.cn-hangzhou.aliyuncs.com
-          username: 阿里云账号
+          username: 295124540@qq.com
           password: aly@6868
           logout: false
 
